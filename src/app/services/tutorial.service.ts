@@ -4,7 +4,7 @@ import { Observable } from 'rxjs';
 import { Tutorial } from '../models/tutorial.model';
 
 const baseUrl =
-  'http://ip172-18-0-154-ca1pm7g9jotg00b6epu0-8080.direct.labs.play-with-docker.com/api/tutorials';
+  'http://ip172-18-0-155-ca2056k33d5g009ooqa0-8080.direct.labs.play-with-docker.com/api/tutorials';
 
 @Injectable({
   providedIn: 'root',
